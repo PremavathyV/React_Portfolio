@@ -189,7 +189,7 @@ export default function App(){
       </main>
 
       <footer className="site-footer">© {new Date().getFullYear()} PREMAVATHY VIJAYAN</footer>
-    // inside App component's JSX return, near top-level div (temporary test)
+   
 <>
   <style>{`
     .project-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:20px; }
