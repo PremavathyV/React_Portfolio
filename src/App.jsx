@@ -131,7 +131,7 @@ export default function App(){
 <article className="card">
 <img className="project-thumb" src="/images/project2.png" alt="Ecommerce Project" />
 <h3>Ecommerce Website</h3>
-<p>Responsive store layout</p>
+<p>Shopping Website</p>
 </article>
 <article className="card">
 <img className="project-thumb" src="/images/project3.png" alt="Weather App" />
