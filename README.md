@@ -1,91 +1,100 @@
-<span style="font-weight:900;">PREMA PORTFOLIO — REACT PROJECT</span>
+# **PREMA PORTFOLIO — REACT PROJECT**
 
-<span style="font-weight:900;">A CLEAN, FAST, FULLY RESPONSIVE PORTFOLIO BUILT WITH REACT + VITE.</span>
-<span style="font-weight:900;">SHOWCASES PROJECTS, EXPERIENCE, CERTIFICATIONS & ACHIEVEMENTS.</span>
+**A clean, fast, fully responsive portfolio built with React + Vite.  
+Showcasing projects, experience, certifications, and achievements.**
 
-<span style="font-weight:900;">🚀 FEATURES</span>
+---
 
-<span style="font-weight:900;">MODERN REACT-BASED UI</span>
+## **🚀 FEATURES**
+- **Modern React-based UI**
+- **Floating animated stickers**
+- **Swipe + Arrow-key navigation**
+- **Project cards with thumbnails**
+- **Experience, Certifications, Achievements sections**
+- **Fully responsive layout**
 
-<span style="font-weight:900;">FLOATING ANIMATED STICKERS</span>
+---
 
-<span style="font-weight:900;">SWIPE + ARROW KEY SLIDE NAVIGATION</span>
+## **🛠 TECH STACK**
+- **React JS**
+- **Vite**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
 
-<span style="font-weight:900;">PROJECT CARDS WITH THUMBNAILS</span>
+---
 
-<span style="font-weight:900;">DEDICATED INFO PAGES</span>
-
-<span style="font-weight:900;">FULLY RESPONSIVE LAYOUT</span>
-
-<span style="font-weight:900;">🛠 TECH STACK</span>
-
-<span style="font-weight:900;">React JS</span>
-
-<span style="font-weight:900;">Vite</span>
-
-<span style="font-weight:900;">JavaScript (ES6+)</span>
-
-<span style="font-weight:900;">HTML5</span>
-
-<span style="font-weight:900;">CSS3</span>
-
-<span style="font-weight:900;">📦 PROJECT STRUCTURE</span>
+## **📦 PROJECT STRUCTURE**
 src/
- ├─ App.jsx
- ├─ main.jsx
- ├─ styles.css
- └─ assets/
-      react.png
-      js.png
-      html.png
-      css.png
-      sticker1.png
-      sticker2.png
+├─ App.jsx
+├─ main.jsx
+├─ styles.css
+└─ assets/
+react.png
+js.png
+html.png
+css.png
+sticker1.png
+sticker2.png
 
 public/
- └─ images/
-      project1.png
-      project2.png
-      project3.png
-      project4.png
+└─ images/
+project1.png
+project2.png
+project3.png
+project4.png
 
-<span style="font-weight:900;">⚙ INSTALLATION & SETUP</span>
-<span style="font-weight:900;">1. Clone the Repository</span>
+yaml
+Copy code
+
+---
+
+## **⚙ INSTALLATION & SETUP**
+
+### **1. Clone the Repository**
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-<span style="font-weight:900;">2. Install Dependencies</span>
+markdown
+Copy code
+
+### **2. Install Dependencies**
 npm install
 
-<span style="font-weight:900;">3. Run Development Server</span>
+markdown
+Copy code
+
+### **3. Start Development Server**
 npm run dev
 
-<span style="font-weight:900;">4. Build for Production</span>
+markdown
+Copy code
+
+### **4. Build for Production**
 npm run build
 
-<span style="font-weight:900;">📑 SECTIONS INCLUDED</span>
+yaml
+Copy code
 
-<span style="font-weight:900;">HOME</span>
+---
 
-<span style="font-weight:900;">PROJECTS</span>
+## **📑 SECTIONS INCLUDED**
+- **HOME**
+- **PROJECTS**
+- **EXPERIENCE**
+- **CERTIFICATIONS**
+- **ACHIEVEMENTS**
+- **CONTACT**
 
-<span style="font-weight:900;">EXPERIENCE</span>
+---
 
-<span style="font-weight:900;">CERTIFICATIONS</span>
+## **📬 CONTACT**
+**Developer:** **Prema**  
+**GitHub:** **https://github.com/PremavathyV**  
+**LinkedIn:** **https://linkedin.com/in/premavathy-vijayan-921a39252**  
+**Email:** **vprema376@gmail.com**
 
-<span style="font-weight:900;">ACHIEVEMENTS</span>
+---
 
-<span style="font-weight:900;">CONTACT</span>
-
-<span style="font-weight:900;">📬 CONTACT</span>
-
-<span style="font-weight:900;">Developer: PREMA</span>**
-<span style="font-weight:900;">GitHub:</span> https://github.com/PremavathyV
-
-<span style="font-weight:900;">LinkedIn:</span> https://linkedin.com/in/premavathy-vijayan-921a39252
-
-<span style="font-weight:900;">Email:</span> vprema376@gmail.com
-
-<span style="font-weight:900;">ABOUT</span>
-
-<span style="font-weight:900;">This portfolio is designed with a clean, bold, and visual-first modern UI, highlighting my skills and work with React-driven animations.</span>
+## **ABOUT**
+**This portfolio uses a bold, modern UI focused on presenting my work clearly with React-driven animations and responsive design.**
