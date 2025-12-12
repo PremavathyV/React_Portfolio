@@ -1,0 +1,24 @@
+/* src/styles.css - minimal styles for App.jsx */
+:root{
+  --bg:#070707;
+  --text:#ffffff;
+  --muted:#bfbfbf;
+  --accent:#7dff2a;
+  --pink:#ff4aa3;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:Inter,Arial,Helvetica,sans-serif}
+.app-root{min-height:100vh}
+.left-bar{position:fixed;left:0;top:0;bottom:0;width:84px;background:#0d0d0d;display:flex;flex-direction:column;align-items:center;padding-top:16px;z-index:60}
+.nav{display:flex;justify-content:space-between;align-items:center;padding:18px 120px 18px 100px;background:rgba(0,0,0,0.2);position:sticky;top:0;z-index:50}
+.nav nav{display:flex;gap:22px}
+.nav .nav-btn{background:transparent;border:0;color:var(--text);cursor:pointer;padding:8px 4px;font-weight:600}
+.nav .nav-btn.active::before{content:'';position:absolute;left:0;right:0;height:4px;top:-10px;background:linear-gradient(90deg,var(--pink),#ff76b9);border-radius:2px}
+.main-view{margin-left:84px;padding:40px}
+.page{display:none}
+.page.visible{display:block}
+.hero{display:flex;gap:40px;align-items:center}
+.hero-left{max-width:720px}
+.hero-right{position:relative;width:460px;height:420px}
+.sticker{position:absolute;width:92px;height:92px;object-fit:contain;filter:drop-shadow(0 10px 18px rgba(0,0,0,0.6))}
+@keyframes float{0%{transform:translateY(0) rotate(0)}50%{transform:translateY(-18px) rotate(6deg)}100%{transform:translateY(0) rotate(0)}}
