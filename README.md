@@ -1,86 +1,91 @@
-<h1 align="center"><b>🌟 PREMA — PORTFOLIO WEBSITE 🌟</b></h1>
-<p align="center"><b>A modern, animated React-based portfolio showcasing my skills, projects, and achievements.</b></p>
-<b>🔥 TECH STACK</b>
+<span style="font-weight:900;">PREMA PORTFOLIO — REACT PROJECT</span>
 
-React + Vite
+<span style="font-weight:900;">A CLEAN, FAST, FULLY RESPONSIVE PORTFOLIO BUILT WITH REACT + VITE.</span>
+<span style="font-weight:900;">SHOWCASES PROJECTS, EXPERIENCE, CERTIFICATIONS & ACHIEVEMENTS.</span>
 
-HTML5 / CSS3
+<span style="font-weight:900;">🚀 FEATURES</span>
 
-JavaScript (ES6+)
+<span style="font-weight:900;">MODERN REACT-BASED UI</span>
 
-Responsive Web Design
+<span style="font-weight:900;">FLOATING ANIMATED STICKERS</span>
 
-Custom Animations
+<span style="font-weight:900;">SWIPE + ARROW KEY SLIDE NAVIGATION</span>
 
-<b>🎨 FEATURES</b>
+<span style="font-weight:900;">PROJECT CARDS WITH THUMBNAILS</span>
 
-Floating animated stickers
+<span style="font-weight:900;">DEDICATED INFO PAGES</span>
 
-Smooth slide navigation (Swipe + Arrow keys)
+<span style="font-weight:900;">FULLY RESPONSIVE LAYOUT</span>
 
-Project thumbnails with clean UI
+<span style="font-weight:900;">🛠 TECH STACK</span>
 
-Experience, Certifications & Achievements pages
+<span style="font-weight:900;">React JS</span>
 
-Fully responsive modern design
+<span style="font-weight:900;">Vite</span>
 
-Bold, minimal, professional layout
+<span style="font-weight:900;">JavaScript (ES6+)</span>
 
-<b>🚀 GETTING STARTED</b>
-Install Dependencies
+<span style="font-weight:900;">HTML5</span>
+
+<span style="font-weight:900;">CSS3</span>
+
+<span style="font-weight:900;">📦 PROJECT STRUCTURE</span>
+src/
+ ├─ App.jsx
+ ├─ main.jsx
+ ├─ styles.css
+ └─ assets/
+      react.png
+      js.png
+      html.png
+      css.png
+      sticker1.png
+      sticker2.png
+
+public/
+ └─ images/
+      project1.png
+      project2.png
+      project3.png
+      project4.png
+
+<span style="font-weight:900;">⚙ INSTALLATION & SETUP</span>
+<span style="font-weight:900;">1. Clone the Repository</span>
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+<span style="font-weight:900;">2. Install Dependencies</span>
 npm install
 
-Run Development Server
+<span style="font-weight:900;">3. Run Development Server</span>
 npm run dev
 
-Build for Production
+<span style="font-weight:900;">4. Build for Production</span>
 npm run build
 
-<b>📁 PROJECT SECTIONS</b>
-⭐ Projects
+<span style="font-weight:900;">📑 SECTIONS INCLUDED</span>
 
-Portfolio Website
+<span style="font-weight:900;">HOME</span>
 
-Ecommerce UI
+<span style="font-weight:900;">PROJECTS</span>
 
-Weather App
+<span style="font-weight:900;">EXPERIENCE</span>
 
-Email Extractor (Python)
+<span style="font-weight:900;">CERTIFICATIONS</span>
 
-⭐ Experience
+<span style="font-weight:900;">ACHIEVEMENTS</span>
 
-Prodigy Infotech — Web Development
+<span style="font-weight:900;">CONTACT</span>
 
-CodeAlpha — Python Programming
+<span style="font-weight:900;">📬 CONTACT</span>
 
-Slytherin — Full Stack Development
+<span style="font-weight:900;">Developer: PREMA</span>**
+<span style="font-weight:900;">GitHub:</span> https://github.com/PremavathyV
 
-⭐ Certifications
+<span style="font-weight:900;">LinkedIn:</span> https://linkedin.com/in/premavathy-vijayan-921a39252
 
-Red Hat Python
+<span style="font-weight:900;">Email:</span> vprema376@gmail.com
 
-Udemy CSS & JavaScript
+<span style="font-weight:900;">ABOUT</span>
 
-LinkedIn Full Stack
-
-Accenture Job Simulation
-
-Deloitte Job Simulation
-
-TCS iON Communication Skills
-
-⭐ Achievements
-
-Special Award — Naan Mudhalvan Hackathon
-
-Finalist — Smart India Hackathon 2023
-
-<b>🔗 CONTACT</b>
-
-GitHub: https://github.com/PremavathyV
-
-LinkedIn: https://linkedin.com/in/premavathy-vijayan-921a39252
-
-Email: vprema376@gmail.com
-
-<p align="center"><b>Made with ❤️ by Prema</b></p>
+<span style="font-weight:900;">This portfolio is designed with a clean, bold, and visual-first modern UI, highlighting my skills and work with React-driven animations.</span>
