@@ -14,7 +14,6 @@ Showcasing projects, experience, certifications, and achievements.**
 - **Fully responsive layout**
 
 ---
-
 ## **🛠 TECH STACK**
 - **React JS**
 - **Vite**
